@@ -1,4 +1,4 @@
-NFT-contract-1.1
+NFT-contract
 ==================
 
 This [React] app was initialized with [create-near-app]
